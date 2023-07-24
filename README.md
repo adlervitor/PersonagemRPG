@@ -1,4 +1,4 @@
-# rpgcharcreation
+# Character Creator for Zombie Survival RPG
 A program that allows players to create character sheets for a post-apocalyptic zombie survival role-playing game (RPG). 
 
 Create Unique Characters: The program lets players create their own unique characters, complete with names, backgrounds, and two chosen abilities.
