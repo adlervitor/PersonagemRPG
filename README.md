@@ -1,5 +1,5 @@
 # Character Creator for Zombie Survival RPG
-A program that allows players to create character sheets for a post-apocalyptic zombie survival role-playing game (RPG). 
+A simple program that allows players to create character sheets for a post-apocalyptic zombie survival role-playing game (RPG). 
 
 Create Unique Characters: The program lets players create their own unique characters, complete with names, backgrounds, and two chosen abilities.
 Character Attributes: Characters have various attributes such as Hit Points (HP), Strength, Dexterity, Intelligence, and Charisma, determined by rolling 10-sided dice.
